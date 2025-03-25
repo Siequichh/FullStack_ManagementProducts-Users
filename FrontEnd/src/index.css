@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+    @apply flex flex-col mx-auto   overflow-x-auto w-10/12  bg-pink-200;
+  } */
